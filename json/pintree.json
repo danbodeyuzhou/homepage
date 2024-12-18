@@ -27,22 +27,22 @@
             "type": "link",
             "addDate": 1724844456986,
             "title": "局域网访问",
-            "icon": "https://logo.clearbit.com/192.168.31.135",
-            "url": "http://192.168.31.135/"
+            "icon": "https://nas.local:9443/desktop/favicon.ico",
+            "url": "https://nas.local:9443/desktop"
           },
           {
             "type": "link",
             "addDate": 1724844439015,
             "title": "Uglink访问",
-            "icon": "https://logo.clearbit.com/ug.link",
-            "url": "http://ug.link/szy"
+            "icon": "https://www.ug.link/img/favicon.ico",
+            "url": "https://ug.link/naszy3333"
           },
           {
             "type": "link",
             "addDate": 1724844476437,
             "title": "虚拟机 Win10LTSC",
             "icon": "https://logo.clearbit.com/0.0.0.123",
-            "url": "http://0.0.0.123//"
+            "url": "https://nas.local:9443/kvm/novnc/?apiKey=INpdixFuLX5dsNlDwiGE0Bswyu0e6l6xrBnfkrgZGM9TUOtu"
           }
         ]
       },
@@ -56,14 +56,14 @@
             "addDate": 1724844265685,
             "title": "Localsend 华为手机",
             "icon": "https://logo.clearbit.com/192.168.31.199",
-            "url": "http://192.168.31.199:53317/"
+            "url": "http://192.168.3.5:53311/"
           },
           {
             "type": "link",
             "addDate": 1724844302232,
-            "title": "小米WIFI后台",
-            "icon": "https://logo.clearbit.com/miwifi.com",
-            "url": "http://miwifi.com/"
+            "title": "WIFI后台",
+            "icon": "https://logo.clearbit.com/huawei.com",
+            "url": "http://my.wifi/"
           },
           {
             "type": "link",
@@ -104,8 +104,8 @@
             "type": "link",
             "addDate": 1724844708065,
             "title": "Kimi AI",
-            "icon": "https://logo.clearbit.com/0.0.0.123",
-            "url": "http://0.0.0.123//"
+            "icon": "https://logo.clearbit.com/kimi.ai",
+            "url": "http://kimi.ai"
           }
         ]
       },
@@ -138,14 +138,14 @@
           {
             "type": "link",
             "addDate": 1724844108675,
-            "title": "Docker Hub",
+            "title": "Docker+",
             "icon": "https://logo.clearbit.com/dockerplus.szysite.com",
             "url": "https://dockerplus.szysite.com/"
           },
           {
             "type": "link",
             "addDate": 1724844108676,
-            "title": "音乐解锁",
+            "title": "音乐",
             "icon": "https://logo.clearbit.com/webtools.szysite.com",
             "url": "https://webtools.szysite.com/music-unloc"
           }
@@ -174,7 +174,7 @@
             "type": "link",
             "addDate": 1724843558054,
             "title": "Cloudflare",
-            "icon": "https://logo.clearbit.com/dash.cloudflare.com",
+            "icon": "https://logo.clearbit.com/cloudflare.com",
             "url": "https://dash.cloudflare.com/"
           },
           {
@@ -246,14 +246,14 @@
         "type": "link",
         "addDate": 1724845656109,
         "title": "下载内容",
-        "icon": "https://logo.clearbit.com/downloads",
+        "icon": "https://logo.clearbit.com/download",
         "url": "chrome://downloads/"
       },
       {
         "type": "link",
         "addDate": 1724845673283,
         "title": "书签",
-        "icon": "https://logo.clearbit.com/bookmarks",
+        "icon": "https://logo.clearbit.com/bookmark",
         "url": "chrome://bookmarks/folder/3"
       }
     ]
